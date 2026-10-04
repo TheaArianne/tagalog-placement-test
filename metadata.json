@@ -1,0 +1,6 @@
+{
+  "name": "Tagalog with Thea",
+  "description": "Learn practical Tagalog for everyday life, travel, and meaningful connections with teacher Thea Arianne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
